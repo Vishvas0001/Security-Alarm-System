@@ -1,0 +1,8 @@
+Android Application (Blynk App)
+NodeMCU Module Controller Software(Arduino IDE 1.8.15)
+NodeMCU Module
+Connecting Wires (female to female)
+LDR Sensor With Module
+Buzzer
+Data Cable
+Board for Setup
